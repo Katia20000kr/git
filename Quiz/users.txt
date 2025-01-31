@@ -1,0 +1,2 @@
+tania,2000
+kostas,1000
